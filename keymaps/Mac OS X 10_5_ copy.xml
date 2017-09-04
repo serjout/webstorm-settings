@@ -1,0 +1,20 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Diff.SelectedChange" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+</keymap>
