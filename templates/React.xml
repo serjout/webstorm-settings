@@ -12,4 +12,9 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
+  <template name="pt" value="propTypes." description="propTypes" toReformat="false" toShortenFQNames="true" />
+  <template name="pts:name:type" value="propTypes.shape({&#10;    $name$: propTypes.$type$,&#10;})" description="propTypes.shape" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
