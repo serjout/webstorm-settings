@@ -4,6 +4,7 @@
       <removed_mapping ext="css" type="CSS" />
       <mapping pattern="DefaultItem" type="JavaScript" />
       <mapping ext="css" type="Less" />
+      <mapping pattern="const-store-status" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern="Consumer" type="PLAIN_TEXT" />
       <mapping pattern=".deploy.key" type="PLAIN_TEXT" />
