@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
+      <mapping pattern="assets" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
