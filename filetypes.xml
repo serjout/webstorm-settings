@@ -8,6 +8,7 @@
       <mapping pattern="state" type="PLAIN_TEXT" />
       <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern="_GethUser" type="PLAIN_TEXT" />
+      <mapping pattern="sub" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-19367" type="PLAIN_TEXT" />
       <mapping pattern="promisify.js" type="PLAIN_TEXT" />
       <mapping pattern="web3.d.ts" type="TypeScript" />
