@@ -10,7 +10,6 @@
       <mapping pattern="_GethUser" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-19367" type="PLAIN_TEXT" />
       <mapping pattern="promisify.js" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="web3.d.ts" type="TypeScript" />
     </extensionMap>
   </component>
