@@ -4,6 +4,7 @@
       <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="state" type="PLAIN_TEXT" />
       <mapping pattern="assets" type="PLAIN_TEXT" />
