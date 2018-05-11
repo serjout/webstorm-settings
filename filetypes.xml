@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="dummy" type="PLAIN_TEXT" />
-      <mapping pattern="src" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="sub" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="promisify.js" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="_GethUser" type="PLAIN_TEXT" />
       <mapping pattern="state" type="PLAIN_TEXT" />
       <mapping pattern="assets" type="PLAIN_TEXT" />
+      <mapping pattern="dwh" type="PLAIN_TEXT" />
       <mapping pattern="input-hoc" type="PLAIN_TEXT" />
-      <mapping pattern="_GethUser" type="PLAIN_TEXT" />
-      <mapping pattern="sub" type="PLAIN_TEXT" />
       <mapping pattern=".node-xmlhttprequest-sync-19367" type="PLAIN_TEXT" />
-      <mapping pattern="promisify.js" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping ext="tsc" type="PLAIN_TEXT" />
       <mapping pattern="web3.d.ts" type="TypeScript" />
     </extensionMap>
